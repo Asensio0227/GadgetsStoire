@@ -1,0 +1,220 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Samsung S22 Plus",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/s22plus.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "IPhone 7",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/phone.2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "hawaii",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/phone1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "iphone 10",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/phone.4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "iphone 10X",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/phone.5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "phone 12",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/phone.6.jpg" }}}
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Samsung Galaxy A53",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/s23.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Rolex",
+        "price": 1200.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-antony-trivet-9897905.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "GOLD Rolex Watch",
+        "price": 4500.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-antony-trivet-9978964.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Silver Rolex Watch",
+        "price": 1500.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-antony-trivet-9981086.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Apple Core i3 Desktop",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-designecologist-1999463.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "Black Rolex Watch",
+        "price": 889.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-hassan-mehdi-1353065.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "DELL Core i3",
+        "price": 350.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-lisa-fotios-1266982.jpg" }}}
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "DELL Dual Core",
+        "price": 80.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-lisa-fotios-811587.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "DELL Core i5",
+        "price": 119.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-mikhail-nilov-6893334.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "17" },
+      "fields": {
+        "title": "DELL Collection",
+        "price": 599.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-mateusz-dach-450035.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "18" },
+      "fields": {
+        "title": "DELL Core i5 4GB Ram",
+        "price": 182.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-mikhail-nilov-6893353.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "19" },
+      "fields": {
+        "title": "DELL Desktop core i7",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-picography-4458.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "20" },
+      "fields": {
+        "title": "Apple Portable",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-skylar-kang-6045232.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "21" },
+      "fields": {
+        "title": "Apple Laptop ",
+        "price": 399.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-pixabay-269323.jpg" }}}
+      }
+    },
+    {
+      "sys": { "id": "22" },
+      "fields": {
+        "title": "Apple Notepad",
+        "price": 150.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-pixabay-434346.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "23" },
+      "fields": {
+        "title": "Apple Desktop 8GB Ram",
+        "price": 200.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-pixabay-38568.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "24" },
+      "fields": {
+        "title": "Rolex Waterproof",
+        "price": 5200.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-pixabay-364822.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "25" },
+      "fields": {
+        "title": "hp",
+        "price": 56.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-samer-daboul-844733.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "26" },
+      "fields": {
+        "title": "Desktop",
+        "price": 99.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-rodolfo-quirós-2330137.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "27" },
+      "fields": {
+        "title": "Apple Collection",
+        "price": 288.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-pixabay-207589.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "28" },
+      "fields": {
+        "title": "Apple Must have collection",
+        "price": 320.99,
+        "image": { "fields": { "file": { "url": "./images/pexels-willian-justen-de-vasconcellos-792345.jpg" }}}
+      }
+    }
+  ]
+}
